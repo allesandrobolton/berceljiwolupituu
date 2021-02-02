@@ -1,0 +1,4 @@
+baseURL = "https://lionanimewulikuhu.vercel.app"
+languageCode = "en-us"
+title = "Lion Anime Character"
+theme = "hugo-theme-minos"
